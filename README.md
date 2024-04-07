@@ -11,4 +11,4 @@ Machine Learning Classification: Utilize machine learning algorithms such as Dec
 Contents:
 ECG_MLClassification_WaveletsFourierFIRIIRSignalProcessing.ipynb: Jupyter notebook containing code for feature extraction, classification, and evaluation.
 README.md: This file providing an overview of the repository.
-Other supporting files and data.
+
